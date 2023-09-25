@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+        "behat/mink": "^1.10",
+        "behat/behat": "^3.13",
+        "behat/mink-browserkit-driver": "^2.1"
+    }
+}
